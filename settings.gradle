@@ -1,0 +1,3 @@
+include ':AlphaNumericGenerator'
+include ':app'
+rootProject.name = "Generator"
